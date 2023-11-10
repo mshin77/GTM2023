@@ -109,7 +109,7 @@ Global TechMining Conference 2023 - November 10, 2023
 -   Sentiment analysis and word network
 -   10,677 after removing duplicates (in Jan. to Apr. 2023)
 -   9,525 news after removing news less than 500 characters (n = 1,152
--   min character = 500, max character = 1,3634 per news
+-   min character = 500, max character = 13,634 per news
 
 ![](figures/process.png){fig-align="center" width="429"}
 
